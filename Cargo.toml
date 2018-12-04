@@ -1,0 +1,8 @@
+[package]
+name = "badinputs"
+version = "0.0.1"
+authors = ["Matt Liegey <me@mattl.gy>"]
+
+[dependencies]
+stdweb = "0.4.2"
+yew = { git = "https://github.com/DenisKolodin/yew" }
